@@ -4,7 +4,7 @@ import java.util.List;
 
 public class AtividadeDTO {
     private String name;
-    private String RA;
+    private String RA; 
     private List<String> respostas;
 
     public String getName() {
